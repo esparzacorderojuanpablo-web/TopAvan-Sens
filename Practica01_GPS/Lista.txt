@@ -1,1 +1,4 @@
 Usamos los siguientes codigos para la practica:
+VelProm_y_DevEst: Usamos este codigo para medir la velocidad promedio y la desviacion estandar de las mediciones realizadas por el celular.
+sensor: Es el codigo de arduino con el que tomamos las muestras del modulo GPS.
+Geocerca_Arduino: El codigo cumple con la funcion de una geocerca, puede modificarse el radio de la circunferencia, ademas que se pueden elegir una latitud y longitud como centro.
