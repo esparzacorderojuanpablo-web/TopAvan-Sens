@@ -1,5 +1,4 @@
 # TopAvan-Sens
-|------------------------------------------------|
 |---------- Integrantes---------------------------|
  ESPARZA CORDERO JUAN PABLO ---------------------|
  CERVANTES RAMIREZ MAURICIO ALEJANDRO -----------|
